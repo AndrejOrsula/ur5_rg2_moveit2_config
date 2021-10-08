@@ -320,7 +320,7 @@ Visualization Manager:
         Goal State Color: 250; 128; 0
         Interactive Marker Size: 0
         Joint Violation Color: 255; 0; 255
-        Planning Group: panda_arm
+        Planning Group: ur5
         Query Goal State: true
         Query Start State: false
         Show Workspace: false
